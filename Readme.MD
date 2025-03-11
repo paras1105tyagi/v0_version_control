@@ -84,6 +84,5 @@ This compares the changes made in a commit with its parent.
 ## Contributing
 Feel free to contribute by submitting issues or pull requests.
 
-## License
-This project is licensed under the MIT License.
+
 
